@@ -154,6 +154,7 @@ instead:
 - **tempmeter**: an ESP32-C3 SuperMini, a BME280 breakout and a TM1637 4-digit
   display, wired by you, in a 3D-printed case. The README gives the pin map and the
   transmit-power setting the SuperMini needs to keep its access point up.
+- **ESP32-Calculator**: an ESP32 development board, an SSD1306 128x64 OLED display, and a 7x5 matrix keypad, wired by you.
 - **Tasmota, WLED, Meshtastic, ESPHome, xiaozhi-esp32**: firmware ecosystems running on
   hundreds to thousands of boards. Each publishes the compatibility list; no short answer
   here would be true.
