@@ -89,6 +89,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 - [open-bike-computer](https://github.com/seichris/open-bike-computer) - Garmin-mounted bike computer paired with its iPhone and Apple Watch app: Apple Maps navigation, live workout stats, Apple Health and Strava sync, power-meter and cadence sensors. `Waveshare ESP32-S3-Touch-AMOLED-1.75` or `Waveshare ESP32-S3-Touch-AMOLED-2.06`
 - [tempmeter](https://github.com/AideaHandesen-dvs/tempmeter) - Room thermometer built from an ESP32-C3 and a BME280 for about ¥1,500: temperature and humidity alternate on a TM1637 7-segment display, pressure and a JSON endpoint arrive over Wi-Fi, and the network is set from a phone through a captive portal. ([demo](https://youtu.be/Tk6F4vo_uOE))
 - [esp_ble_finder](https://github.com/khlebobul/esp_ble_finder) - BLE finder that hunts a misplaced phone by RSSI, with a dark dotted direction UI, a bar that fills as you close in, and speaker clicks that speed up with signal strength. `Waveshare ESP32-S3-Touch-AMOLED-1.8`
+- [The Badge](https://github.com/curisama/The-Badge) - Wearable round-screen tool that drives a computer over Bluetooth HID: a touchpad and an IMU air mouse, twelve keys a phone's soft keyboard does not have, a clock with timer and alarm, a recorder that mounts as a USB drive, and accelerometer fidgets, flashable from the browser and buildable against a desktop simulator. ([demo](https://github.com/curisama/The-Badge/blob/main/docs/img/real/desk.jpg)) `Waveshare ESP32-S3-Touch-AMOLED-1.75C`
 
 ## Tools, utilities & libraries
 

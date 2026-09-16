@@ -19,6 +19,14 @@ ESP32-S3R8, 466x466 round touch AMOLED, QMI8658 6-axis IMU, PCF85063 RTC, AXP210
 dual microphones, battery support.
 [Product page](https://www.waveshare.com/esp32-s3-touch-amoled-1.75.htm)
 
+## Waveshare ESP32-S3-Touch-AMOLED-1.75C
+
+ESP32-S3R8, 466x466 round touch AMOLED in a milled aluminium case, QMI8658 6-axis IMU,
+AXP2101 PMIC, dual microphones, speaker, 32 MB flash, battery support. The trailing C is
+not a revision of the 1.75: no RTC and no microSD slot, and 32 MB of flash instead of 16,
+so partition tables and timekeeping do not carry over between them.
+[Product page](https://www.waveshare.com/esp32-s3-touch-amoled-1.75c.htm)
+
 ## Waveshare ESP32-S3-Touch-AMOLED-2.06
 
 ESP32-S3R8, 410x502 touch AMOLED, QMI8658 6-axis IMU, battery support. Larger sibling of
