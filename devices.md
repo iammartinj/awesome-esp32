@@ -128,6 +128,11 @@ batches, and the KiCAD sources are published.
 [Product page](https://booth.pm/ja/items/8128031) ·
 [design files](https://github.com/family-mruby/narya-board)
 
+## Seeed Studio XIAO ESP32-C3
+
+ESP32-C3 RISC-V development board with Wi-Fi, Bluetooth LE, native USB and battery support in Seeed Studio's compact XIAO form factor.
+[Product page](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html)
+
 ## No single device
 
 These projects name no device, and inventing one would misrepresent them. What each takes
